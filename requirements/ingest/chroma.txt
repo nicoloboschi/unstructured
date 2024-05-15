@@ -52,7 +52,7 @@ filelock==3.14.0
     # via huggingface-hub
 flatbuffers==24.3.25
     # via onnxruntime
-fsspec==2024.3.1
+fsspec==2024.5.0
     # via huggingface-hub
 google-auth==2.29.0
     # via kubernetes
